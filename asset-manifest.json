@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/test-project/static/css/main.d48fb5d4.css",
+    "main.js": "/test-project/static/js/main.a03815cd.js",
+    "static/media/user_card_bckgrnd.png": "/test-project/static/media/user_card_bckgrnd.64957231345e16289b81.png",
+    "index.html": "/test-project/index.html",
+    "main.d48fb5d4.css.map": "/test-project/static/css/main.d48fb5d4.css.map",
+    "main.a03815cd.js.map": "/test-project/static/js/main.a03815cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d48fb5d4.css",
+    "static/js/main.a03815cd.js"
+  ]
+}
